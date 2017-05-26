@@ -3,5 +3,6 @@ Version: 2.2.1
 Depends: R (>= 3.0)
 Suggests: knitr, microbenchmark, pryr, testthat, ggplot2, scales
 License: MIT + file LICENSE
-MD5sum: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+MD5sum: b10b742a3acc7bd0b85eee535a604302
 NeedsCompilation: no
+
