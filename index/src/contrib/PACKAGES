@@ -5,3 +5,5 @@ Suggests: knitr, microbenchmark, pryr, testthat, ggplot2, scales
 License: MIT + file LICENSE
 MD5sum: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 NeedsCompilation: no
+SHA256:
+        ea391da052ba2a4d587119c4a34a71b28bec54ae8b7b09561009f23f8480dbcd
