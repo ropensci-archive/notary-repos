@@ -1,0 +1,7 @@
+Package: dplyr
+Version: 0.1.0
+Depends: R (>= 3.3.3)
+License: BSD_2_clause + file LICENSE
+MD5sum: 1e486da5cb73a430a8d601916fa2538d
+NeedsCompilation: no
+
